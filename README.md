@@ -37,6 +37,11 @@
 <br></br>
 
 <h2>Interests</h2>
-<p>Robotics</p>
-<p>Hiking, Hunting, Fishing</p>
-<p>Sports</p>
+<ul>
+    <li>Robotics</li>
+    <li>Hiking</li>
+    <li>Hunting</li>
+    <li>Fishing</li>
+    <li>Sports</li>
+</ul>
+
