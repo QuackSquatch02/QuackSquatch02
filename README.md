@@ -45,3 +45,5 @@
     <li>Sports</li>
 </ul>
 
+<h2>Contact Information</h2>
+<a href="Nsteilman1@mtech.edu">Nsteilman1@mtech.edu</a>
