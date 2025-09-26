@@ -1,19 +1,42 @@
 <body>
 <h1>Nicholas Steilman</h1>
 <p>I am a Software Engineering student at Montana Tech corrently working on my BA with a minor in Computer Science. Currently I am employed at NorthWestern Energy in Butte Montana working as a System Controls\Programing intern where I mainly work with databases and creating small interfaces to complete automated tasks.</p>
-
+<img src="NickSteilman.jpg" alt="Nick Steilman Headshot" width="150" height="200">
+<br></br>
 <h2>Education History</h2>
 <p>Montana Tech: Major in Software Engineering (2021-present)</p>
 <p>Montana Tech: Minor in Computer Science (2021-present)</p>
 <p>Butte High School: Graduated with deploma (2021)</p>
 
-<h3>Skills</h3>
-<p>Python: advanced</p>
-<p>Visual Basic for Applications: advanced</p>
-<p>C++: intermidate</p>
-<p>C: begginer</p>
+<br></br>
 
-<h4>Interests</h4>
+<h2>Skills</h2>
+<table>
+    <tr>
+        <th>Skill</th>
+        <th>Level</th>
+    </tr>
+    <tr>
+        <th>Python</th>
+        <th>Advanced</th>
+    </tr>
+    <tr>
+        <th>Visual Basic</th>
+        <th>Advanced</th>
+    </tr>
+    <tr>
+        <th>C++</th>
+        <th>Intermidate</th>
+    </tr>
+    <tr>
+        <th>C</th>
+        <th>Beginner</th>
+    </th>
+</table>
+
+<br></br>
+
+<h2>Interests</h2>
 <p>Robotics</p>
 <p>Hiking, Hunting, Fishing</p>
 <p>Sports</p>
